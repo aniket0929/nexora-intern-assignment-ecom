@@ -154,7 +154,7 @@ http://localhost:5173
 
 ---
 
-## ✨ Features
+## Features
 
 ### Core Features
 -  **Product Catalog**
