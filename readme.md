@@ -357,5 +357,5 @@ Watch the application in action:
 
 
 
-**Built with love for Vibe Nexora**
+**Built with love for Nexora**
 
